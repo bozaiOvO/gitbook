@@ -1,6 +1,6 @@
 # Table of contents
 
 * [bufan](README.md)
-* [不凡](untitled.md)
+* [js基础（数据类型）](js基础（数据类型）.md)
 * [Untitled](untitled-1.md)
 
